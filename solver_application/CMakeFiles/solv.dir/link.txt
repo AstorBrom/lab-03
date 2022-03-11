@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsolv.a CMakeFiles/solv.dir/home/velial/labs/lab_03/lab03/solver_lib/solver.cpp.o
+/usr/bin/ranlib libsolv.a

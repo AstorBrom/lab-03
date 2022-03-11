@@ -1,0 +1,4 @@
+/home/velial/labs/lab_03/lab03/solver_application/CMakeFiles/solv.dir
+/home/velial/labs/lab_03/lab03/solver_application/CMakeFiles/solver.dir
+/home/velial/labs/lab_03/lab03/solver_application/CMakeFiles/edit_cache.dir
+/home/velial/labs/lab_03/lab03/solver_application/CMakeFiles/rebuild_cache.dir

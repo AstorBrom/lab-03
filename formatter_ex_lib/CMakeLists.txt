@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.4)
+project(form_ex)
+add_library(create_form_ex STATIC /home/velial/labs/lab_03/lab03/formatter_ex_lib/formatter_ex.cpp)
+include_directories(/home/velial/labs/lab_03/lab03/formatter_ex_lib)
+target_link_libraries(create_form_ex formatter)
+target_include_directories(create_form_ex PUBLIC /home/velial/labs/lab_03/lab03/formatter_lib)

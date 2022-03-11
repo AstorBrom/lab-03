@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.4)
+project(form_hello_world)
+add_executable(form_hello_wold /home/velial/labs/lab_03/lab03/hello_world_application/hello_world.cpp)
+target_include_directories(form_hello_wold PUBLIC /home/velial/labs/lab_03/lab03/formatter_ex_lib)
+target_include_directories(form_hello_wold PUBLIC /home/velial/labs/lab_03/lab03/formatter_lib)
+target_link_libraries(form_hello_wold /home/velial/labs/lab_03/lab03/formatter_ex_lib/libcreate_form_ex.a)
+target_link_libraries(form_hello_wold /home/velial/labs/lab_03/lab03/formatter_lib/libcreate_form.a)

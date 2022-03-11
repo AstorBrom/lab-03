@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcreate_form_ex.a CMakeFiles/create_form_ex.dir/formatter_ex.cpp.o
+/usr/bin/ranlib libcreate_form_ex.a

@@ -1,0 +1,3 @@
+/home/velial/labs/lab_03/lab03/formatter_ex_lib/CMakeFiles/create_form_ex.dir
+/home/velial/labs/lab_03/lab03/formatter_ex_lib/CMakeFiles/edit_cache.dir
+/home/velial/labs/lab_03/lab03/formatter_ex_lib/CMakeFiles/rebuild_cache.dir

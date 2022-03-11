@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/solver.dir/equation.cpp.o -o solver  /home/velial/labs/lab_03/lab03/formatter_ex_lib/libcreate_form_ex.a /home/velial/labs/lab_03/lab03/formatter_lib/libcreate_form.a /home/velial/labs/lab_03/lab03/solver_lib/libcreate_solv.a 

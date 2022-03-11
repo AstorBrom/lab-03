@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/form_hello_wold.dir/hello_world.cpp.o -o form_hello_wold  /home/velial/labs/lab_03/lab03/formatter_ex_lib/libcreate_form_ex.a /home/velial/labs/lab_03/lab03/formatter_lib/libcreate_form.a 
